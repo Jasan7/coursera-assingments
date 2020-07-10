@@ -1,0 +1,12 @@
+body {
+    font-family: monospace, helvetica, Arial, sans-serif;
+}
+.heading{
+    margin: 20px 0;
+    font-size: 175%;
+}
+.section {
+    background-color: gainsboro;
+    padding: 10px 20px 20px 20px;
+    height: 1000px;
+}
